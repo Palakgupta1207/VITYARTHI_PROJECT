@@ -1,6 +1,6 @@
 # Railway-Tickets Booking System_
 
-**Overview of the Project**
+# **Overview of the Project**
 
 This Railway Tickect Booking System is a program written in python language. In this program the user provides personal and journey details such as name, age, starting and destination stations, train number and train name. The system will display available coach types and their fares, ask the user to select a coach and then print the formed ticket and total fare to be paid.
 
@@ -15,7 +15,7 @@ This project demonstrates fundamental programming concepts such as:
 *# Basic validation*
 
 
-**FEATURES**
+# **FEATURES**
 
 * Collects Passenger details like Name, Age,
 * Accepts travel information From, To, Train Number, Train Name.
@@ -25,7 +25,7 @@ This project demonstrates fundamental programming concepts such as:
 * Generates a structured ticket-summary.
 
 
-**Technology Used**
+# **Technology Used**
   
 Component -   Details
 
@@ -36,7 +36,7 @@ Interface  -  Terminal
 Logic     -   Dictionary-based fare mapping, input validation.
 
 
-**Steps to install & run the project**
+# **Steps to install & run the project**
 
 *1. Install Python* -
  
@@ -55,7 +55,7 @@ Open the Terminal and Run the following Code
 The program will start and ask you for the Details.
 
 
-**Instructions for Testing**
+# **Instructions for Testing**
 
 Follow the following steps to test the program:
 
